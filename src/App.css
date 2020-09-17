@@ -19,7 +19,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -35,4 +34,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  margin-top: 2rem;
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  background-color: lightblue;
+  border: 0;
+  font-size: 1.2rem;
 }
