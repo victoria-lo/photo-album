@@ -22,7 +22,7 @@ function Home() {
   return (
     <header className="App-header">
       {!!user ? (
-        <Redirect to={{ pathname: "/upload" }} />
+        <Redirect to={{ pathname: "/photo-album/upload" }} />
       ) : (
         <div>
           <h4

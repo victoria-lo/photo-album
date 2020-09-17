@@ -16,8 +16,8 @@ function App() {
             Storage and Authentication. Still in Progress.
           </p>
           <Switch>
-            <Route exact path="/upload" component={Upload} />
-            <Route exact path="/" component={Home} />
+            <Route exact path="/photo-album/upload" component={Upload} />
+            <Route exact path="/photo-album/" component={Home} />
           </Switch>
         </div>
       </Router>

@@ -39,7 +39,7 @@ function Upload() {
   return (
     <div>
       {!user ? (
-        <Redirect to={{ pathname: "/" }} />
+        <Redirect to={{ pathname: "/photo-album/" }} />
       ) : (
         <header className="App-header">
           <p>Upload a Photo</p>
