@@ -10,4 +10,4 @@ This project is a tutorial of Firebase Authentication, Cloud Storage with React.
 
 ### Tutorial Articles
 - [Introduction to React Context API with Firebase Authentication](https://lo-victoria.com/introduction-to-react-context-api-with-firebase-authentication)
-- Introduction to Firebase Cloud Storage coming soon
+- [Introduction to Firebase Cloud Storage](https://lo-victoria.com/introduction-to-firebase-storage-uploading-files)
