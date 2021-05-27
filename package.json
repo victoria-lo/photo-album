@@ -12,7 +12,7 @@
     "enzyme-adapter-react-16": "^1.15.5",
     "firebase": "^7.20.0",
     "gh-pages": "^3.1.0",
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-firebaseui": "^4.1.0",
